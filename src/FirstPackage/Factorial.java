@@ -9,7 +9,6 @@ public class Factorial {
 			fact = fact*i;
 		}
 		System.out.println("factorial is "+ fact);
-		System.out.println("End");
 		}
 
 }
